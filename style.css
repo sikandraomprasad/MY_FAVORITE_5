@@ -1,0 +1,169 @@
+body {
+    margin: 0px;
+    text-align: center;
+}
+
+.abouttime{
+   padding: 20px;
+   font-size: 20px;
+   background: linear-gradient(skyblue,violet);
+   height: 600px;
+}
+
+.bio{
+   padding: 20px;
+   font-size: 20px;
+   background: linear-gradient(#f6f702 0%,#f7a902 100%);
+    height: 563;
+}
+
+h1 {
+  text-shadow:2px 2px #F8BBD0;
+  font-size:20px;
+    font-family: 'Lobster', cursive;
+}
+
+h2 {
+    text-shadow:2px 2px #F8BBD0;
+  font-size:20px;
+font-family: 'Lobster', cursive;
+}
+
+
+img{
+    width: 200px;
+    margin-bottom: 50px;
+    border-radius: 50%;
+}
+
+.line{
+    height: 6px;
+    background-color: black;
+    width: 70px;
+    margin: 10px auto;
+}
+
+p{
+    color: purple;
+    font-family: 'PT Sans', sans-serif;
+}
+
+.link {
+    float: left;
+    color: black;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    padding-left: 9px;
+    padding-right: 9px;
+    font-family: fantasy;
+    font-size: 20px;
+    font-family: 'PT Sans', sans-serif;
+
+}
+
+
+
+.menu {
+    list-style: none;
+    font-family: 'PT Sans', sans-serif;
+    position: absolute;
+    right: 20px;
+    text-shadow:2px 2px #F8BBD0;
+    font-size: 10px;
+}
+
+#hobby {
+    font-size: 30px;
+    line-height: 1.2;
+}
+
+#mypicture {
+    width: 160px;
+    margin-bottom: 50px;
+    border-radius: 50%;
+    margin-bottom: 3px;
+    height: auto;
+}
+
+a {
+    text-decoration: none;
+}
+
+
+html {
+    scroll-behavior: smooth;
+}
+
+#Lifeofpi {
+    width: 160px;
+    border-radius: 50%;
+}
+
+#billgates {
+    width: 160px;
+    margin-bottom: 50px;
+    border-radius: 50%;
+
+}
+
+#name {
+    font-family: 'Lobster', cursive;
+}
+
+
+#book {
+    font-family: 'Lobster', cursive;
+
+}
+
+
+#inspiration {
+    font-family: 'Lobster', cursive;
+}
+
+#Myinspiration {
+    background: linear-gradient(#04fefe 0%, #b3e8aa 100%);
+    text-align: center;
+    padding: 50px;
+    font-size: 20px;
+    height: 400px;
+    text-shadow:2px 2px skyblue;
+
+}
+
+#Myfavouritebook {
+    background: linear-gradient(#fbbafa 0%, #b9bbfa 100%);
+    padding: 50px;
+    font-size: 20px;
+    height: 700px;
+
+
+}
+
+.inspiration {
+    width: 160px;
+    transition: transform .2s;
+}
+
+.inspiration:hover {
+    transform: scale(0.9);
+}
+
+
+#Contact {
+    background: linear-gradient(#fbbafa 0%, #8789d6 100%);
+
+}
+
+#Contact iframe {
+    width: 100%;
+}
+
+.Contact1 a {
+    color: white;
+}
+
+.Contact1 h3 {
+    display: inline;
+    text-shadow: 1px 1px  black;
+}
